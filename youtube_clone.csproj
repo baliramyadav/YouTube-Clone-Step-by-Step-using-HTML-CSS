@@ -71,6 +71,8 @@
     <Content Include="index.css" />
     <Content Include="index.html" />
     <Content Include="Web.config" />
+    <Content Include="youtube.css" />
+    <Content Include="youtube.html" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
